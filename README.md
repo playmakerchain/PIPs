@@ -1,5 +1,5 @@
 # PowePlay Improvement Proposals
-This repository for the Powerplay (Network) Improvement Proposals (PIPs) and PowerPlay Standards Process (PSP) describes the  standards for the PowerPlay Network, including core protocol specifications, client APIs, and smart contract standards.
+This repository for the Powerplay Improvement Proposals (PIPs) and PowerPlay Standards Process (PSP) describes the  standards for the network, including core protocol specifications, client APIs, and smart contract standards.
 
 ## PIP Status Terms
 * **Draft** - a PIP that is undergoing rapid iteration and changes.
