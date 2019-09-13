@@ -1,4 +1,4 @@
-
+---
 pIP: <to be assigned>
 title: <PIP title>
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
@@ -9,7 +9,7 @@ category (*only required for Standard Track): <Core | Interface | PSP>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <PIP number(s)>
 replaces (*optional): <PIP number(s)>
-
+---
 
 <!--You can leave these HTML comments in your merged PIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new PIPs. Note that an PIP number will be assigned by an editor. When opening a pull request to submit your PIP, please use an abbreviated title in the filename, `pIP-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 This is the suggested template for new PIPs.
