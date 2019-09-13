@@ -39,4 +39,4 @@ All PIPs that introduce backwards incompatibilities must include a section descr
 Test cases for an implementation are mandatory for PIPs that are affecting consensus changes. Other PIPs can choose to include links to test cases if applicable. The implementations must be completed before any PIP is given status "Final", but it need not be completed before the PIP is accepted.
 
 ## Copyright
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+`This template is heavily influenced by the LUKSO LIPs.` All copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
