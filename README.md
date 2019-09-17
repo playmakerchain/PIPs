@@ -13,7 +13,7 @@ This repository for the Powerplay Improvement Proposals (PIPs) and PowerPlay Sta
 
 We welcome all contributions to the PowerPlay Network. Our core-devs are always reviewing all improvement proposals and to submit a new proposal just follow these steps:
 
- 1. Review [PIP](PIPs/pip.md).
+ 1. Review [PIP](PIPs/PIP1.md).
  2. Fork the repository by clicking "Fork" in the top right.
  3. Add your PIP to your fork of the repository. There is a [template PIP here](pip-template.md).
  4. Submit a Pull Request the PowerPlay [PIPs repository](https://github.com/playmakerchain/PIPs).
